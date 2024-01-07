@@ -1,1 +1,3 @@
-theme: jekyll-theme-architect
+title: QRcodehub
+description: QRcodehub is a Chrome extension that converts URL addresses into QR code.
+theme: jekyll-theme-cayman
