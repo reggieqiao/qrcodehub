@@ -12,3 +12,10 @@ QRcodehub is a Chrome extension that converts URL addresses into QR code
 
 ## Installation
 [Chrome Web Store](https://chromewebstore.google.com/detail/qrcodehub/cnjjbhebiibiefomfpahgiagocjbfdad)
+
+### Install with source code
+
+1. Visit `chrome://extensions/` in Chrome
+2. Enable the **Developer mode**
+3. Click on **Load unpacked extension**
+4. Select the folder extension
