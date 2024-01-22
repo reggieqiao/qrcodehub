@@ -5,7 +5,7 @@
 RQcodehub
 </h1>
 
-QRcodehub is a Chrome extension that converts URL addresses into QR code
+QRcodehub is a Chrome extension that converts URL addresses into QR code, scan the QR code to access and browse on mobile devices.
 
 ## Overview
 ![QRcodehub](https://raw.githubusercontent.com/reggieqiao/qrcodehub/main/docs/assets/examples.png)
