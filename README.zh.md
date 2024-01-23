@@ -8,7 +8,7 @@
 RQcodehub
 </h1>
 
-QRcodehub 是一个 Chrome 扩展程序，可以将 URL 地址转换为二维码
+QRcodehub 是一个 Chrome 扩展程序，可以将 URL 地址转换为二维码，通过扫描二维码方便移动设备访问浏览。
 
 ## 概述
 ![QRcodehub](https://raw.githubusercontent.com/reggieqiao/qrcodehub/main/docs/assets/examples.png)
